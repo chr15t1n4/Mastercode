@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+
+.rosa {
+    color:rgb(194, 122, 146);
+    align-items:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    height: 200px;
+    align-items: center;
+}
+
+.subtítulos{
+    color: #da33be;
+    font-size: 27px;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration:line-through;
+}
+
+.diferente{
+    text-decoration: none;
+}
